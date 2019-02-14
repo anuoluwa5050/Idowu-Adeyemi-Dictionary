@@ -1,0 +1,6 @@
+#write a python script to convert the lists below into a dictionary.
+name = ['Ayo', 'Barbie', 'Carla', 'Dede', 'Eugene']
+age = [21, 13, 57, 43, 2]
+name_age = {'Ayo':21, 'Barbie':13, 'Carla':57, 'Dede':43, 'Eugene':2}
+print(type(name_age))
+print(name_age['Ayo'])
